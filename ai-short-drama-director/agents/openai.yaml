@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 短剧导演"
+  short_description: "从确认大纲到人物场景素材、八至十秒分镜和飞书交付"
+  default_prompt: "使用 $ai-short-drama-director，先把我的短剧创意整理成可确认的大纲；确认后制作人物与场景圣经、逐段素材和提示词，并用一份飞书文档加文末 ZIP 完整交付。"

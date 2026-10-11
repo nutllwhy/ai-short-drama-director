@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.zip
+*.wav
+*.mp3
+*.m4a
+飞书交付回执.json
+*回读证据*.json
+.feishu-preview/
+verification/
+draft_*/
